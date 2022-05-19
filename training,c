@@ -3,4 +3,6 @@ int main()
 {
 printf("GITHUB TRAINING");
 RETURN 0;
+// Write code for multiplication
 }
+
